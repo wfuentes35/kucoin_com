@@ -1,0 +1,9 @@
+python-kucoin
+python-telegram-bot==20.*
+pandas
+numpy
+httpx
+aiohttp
+openpyxl
+pytz
+dotenv

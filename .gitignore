@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+historial_ventas.xlsx
+app.log
